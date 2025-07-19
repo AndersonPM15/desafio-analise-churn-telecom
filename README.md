@@ -1,6 +1,8 @@
 # Desafio de Análise de Dados: Evasão de Clientes (Churn) da Telecom X
 
-**Challenge ONE - Oracle Next Education + Alura** *Autor: Anderson [Seu Sobrenome]*
+**Challenge ONE - Oracle Next Education + Alura**
+
+*Autor: Anderson Machado.*
 
 ## 1. Propósito da Análise (O Problema de Negócio)
 
@@ -62,7 +64,7 @@ Com base nisso, as seguintes ações são recomendadas para a Telecom X:
 
 ## 6. Instruções para Executar o Projeto
 
-1.  Clone este repositório: `git clone <URL_DO_SEU_REPOSITORIO>`
+1.  Clone este repositório: `git clone https://github.com/AndersonPM15/desafio-analise-churn-telecom`
 2.  Navegue até a pasta do projeto.
 3.  As bibliotecas necessárias são: `pandas`, `requests`, `matplotlib`, `seaborn`. Caso não as tenha, instale com `pip install pandas requests matplotlib seaborn`.
 4.  Abra e execute o notebook `analise_churn_telecom.ipynb` em um ambiente como Jupyter Notebook, Jupyter Lab ou Google Colab.
